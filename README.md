@@ -1,4 +1,3 @@
-```markdown
 # HMC-1: Helldiver Mission Command AI
 
 ### Unleash Superior Strategy for Super Earth!
@@ -16,4 +15,3 @@ From the swarming Terminid hordes to the relentless Automaton legions, HMC-1 is 
 ---
 
 **Current Status:** First Push to Main Branch - Actively Under Development and Learning.
-```
